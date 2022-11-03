@@ -1,5 +1,5 @@
 # My Simple XFCE Setup
-Oh, you didn't hear? I made my first linux rice, and it's kinda basic, but I love the opportunity this gives us to learn more about the most amazing thing about the Linux kernel. Customizability!
+Oh, you didn't hear? I made my first linux rice, and it's kinda basic, but I love the opportunity this gives me to learn more about the most amazing thing about the Linux kernel, customizability!
 # Preview
 
 ![myende](https://user-images.githubusercontent.com/91915054/144332207-1b929199-8f00-432e-b470-fcb5674139ed.png)
